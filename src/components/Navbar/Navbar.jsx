@@ -15,10 +15,6 @@ return(
         <li><a>Home</a></li>
         <li>
           <a>Contact</a>
-          <ul className="p-2">
-            <li><a>Contact 1</a></li>
-            <li><a>Contact 2</a></li>
-          </ul>
         </li>
         <li><a>Item 3</a></li>
       </ul>
